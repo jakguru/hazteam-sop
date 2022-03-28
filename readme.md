@@ -1,4 +1,4 @@
-# HazTeam Standard Operating Procedures
+# HAZTEAM Standard Operating Procedures
 
 ## Introduction:
 *  This SOP is meant to educate Members on the procedures and policies that are in place for HAZTEAM. All Members
