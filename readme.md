@@ -1,6 +1,6 @@
 # HAZTEAM Standard Operating Procedures
 
-https://s3.amazonaws.com/guildtag/file/5662/22892-3f95e0.png
+[!(https://s3.amazonaws.com/guildtag/file/5662/22892-3f95e0.png)]
 
 ## Introduction:
 *  This SOP is meant to educate Members on the procedures and policies that are in place for HAZTEAM. All Members
