@@ -42,11 +42,6 @@ it really got annoying and just plain sad. Our opinion on the matter is, just do
 4. **Set the HAZTEAM example.**
 Be an example. Set a standard. You should not only strive for this in HAZTEAM, but also in your everyday lives.
 Push yourself to be the best you can be.
-Do you know why HT was so successful in SWAT3? It's because of the way we treated people. When a newbie
-came into a game, and they were slower getting ready than everyone else, holding us all up...instead of rushing
-the person or calling them names Nymesis would ask if they had a problem instead. If there was someone in the
-lobbies asking questions about the game, he would help them out. Sometimes, it's the small, insignificant actions that say so much about a person. This is the type of reputation that is mandatory and how we want to precede HT
-in every game we play.
 So, just be an example, not only to your fellow teammates, but the entire community and in your everyday lives.
 What's the worst that can happen? That it sets you up for success? Set the HAZTEAM example!!
 
@@ -150,11 +145,11 @@ absence, the request should be redirected to a Council member.
 ## Advancement In Rank - Beyond The Enlisted Ranks:
 *  Once a member reaches their two year promotion/anniversary date with the team, they will have a choice to make regarding
 their future advancement opportunites from the three choices below.
-*  1.  Line Officer:  The member may choose to leave the senior enlisted ranks and move into Command, or the Line Officer
+*  1.  **Line Officer**:  The member may choose to leave the senior enlisted ranks and move into Command, or the Line Officer
 route, being promoted to Ensign.
-*  2.  Warrant Officer:  A WO is considered to be a "specialist" in their field.  It's typical for senior enlisted personnel
+*  2.  **Warrant Officer**:  A WO is considered to be a "specialist" in their field.  It's typical for senior enlisted personnel
 to move into the WO route to further specialize in their technical expertise, especially if the individual is not interested
 in Command responsibilites.  If a member chooses the WO route after two years, they will move into the WO route, with ranks 
 consisting of WO-1 through WO-5.
-*  3.  Remain MCPO:  Of course, a member may choose to stay in the senior enlisted ranks at MCPO, however, remaining at this rank
+*  3.  **Remain MCPO**:  Of course, a member may choose to stay in the senior enlisted ranks at MCPO, however, remaining at this rank
 will not allow for future promotions, as MCPO is at the top of the enlisted ranks.
