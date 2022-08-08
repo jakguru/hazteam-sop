@@ -146,3 +146,15 @@ discharged from the team. “Three strikes, you’re out.”
 ## Clan Matches and/or Challenges:
 *  Any requests for a clan match, tournament or challenge are required to be forwarded to Nymesis or AJZ. In their
 absence, the request should be redirected to a Council member. 
+
+## Advancement In Rank - Beyond The Enlisted Ranks:
+*  Once a member reaches their two year promotion/anniversary date with the team, they will have a choice to make regarding
+their future advancement opportunites from the three choices below.
+*  1.  Line Officer:  The member may choose to leave the senior enlisted ranks and move into Command, or the Line Officer
+route, being promoted to Ensign.
+*  2.  Warrant Officer:  A WO is considered to be a "specialist" in their field.  It's typical for senior enlisted personnel
+to move into the WO route to further specialize in their technical expertise, especially if the individual is not interested
+in Command responsibilites.  If a member chooses the WO route after two years, they will move into the senior enlisted ranks
+and move into the WO route, with ranks consisting of WO-1 through WO-5.
+*  3.  Remain MCPO:  Of course, a member may choose to stay in the senior enlisted ranks at MCPO, however, remaining at this rank
+will not allow for future promotions, as MCPO is at the top of the enlisted ranks.
