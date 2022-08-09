@@ -145,7 +145,7 @@ absence, the request should be redirected to a Council member.
 
 ## Advancement In Rank - Beyond The Enlisted Ranks:
 *  Once a member reaches their two year promotion/anniversary date with the team, they will have a choice to make regarding
-their future advancement opportunites from the three choices below.
+their future advancement opportunites from the three options below.
 *  1.  ``Line Officer``:  The member may choose to leave the senior enlisted ranks and move into Command, or the Line Officer
 route, being promoted to Ensign.
 *  2.  ``Warrant Officer``:  A WO is considered to be a "specialist" in their field.  It's typical for senior enlisted personnel
