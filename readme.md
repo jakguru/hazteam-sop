@@ -152,5 +152,5 @@ route, being promoted to Ensign.
 to move into the WO route to further specialize in their technical expertise, especially if the individual is not interested
 in Command responsibilites.  If a member chooses the WO route after two years, they will move into the WO route, with ranks 
 consisting of WO-1 through WO-5.
-*  3.  ``Fleet MCPO``:  Of course, a member may choose to stay in the senior enlisted ranks at Fleet MCPO, however, remaining at this rank
-will not allow for future promotions, as FMCPO is the top echelon of the enlisted ranks.
+*  3.  ``Master Chief Petty Officer``:  A member may choose to stay in the senior enlisted ranks at MCPO, however, remaining at this rank
+will not allow for future promotions.
