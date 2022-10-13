@@ -112,18 +112,18 @@ the new member’s Mentor. In the absence of the Leaders for 10 days after the 1
 Member may direct a Member to post an invite announcement.
 
 ## HT Rules:
-*  All members are responsible for adhering to the following Standard Operating Procedures of the HAZTEAM
-website.
-*  This is a **gaming** website and Discord. Any posts, threads or polls relating to religion, politics, terrorism, drugs,
-sexually explicit content, hacks or torrents could be deemed as inappropriate and viewed as abuse.
+*  All members are responsible for adhering to the following Standard Operating Procedures of HAZTEAM.
+*  This is a **gaming** organization, website, and Discord. Any posts, threads or polls relating to religion, 
+politics, terrorism, drugs, sexually explicit content, hacks or torrents could be deemed as inappropriate and 
+viewed as abuse.
 *  Any posts, threads or polls that are disrespectful, hurtful, unkind, degrading or otherwise perceived to be such
 could also be deemed as inappropriate and an abuse.
 *  Any posts, threads or polls that are considered spam, completely unrelated to a topic or created for the purpose of
 raising post counts could be deemed as inappropriate.
 *  The website or Discord is not a venue for recruiting or soliciting for NON HT teams, clans, groups or organizations.
 Any posts, threads or polls relating to such content could be deemed inappropriate.
-*  Any member that is the author of a post, thread or poll which is deemed "inappropriate" by a Moderator or
-Administrator could be suspended for an amount of time the Administrator deems necessary.
+*  Any member that is the author of a post, thread or poll which is deemed "inappropriate" by an Administrator could be 
+suspended for an amount of time the Administrator deems necessary.
 *  In the event a member continues to post, create threads or polls that are deemed inappropriate and/or abuse the
 website/Discord, their entire network will be banned along with their username until an Administrator removes
 said ban.
