@@ -136,6 +136,8 @@ behavior, as outlined in HT code of conduct, rules and/or policies, then they be
 probationary period. Additionally, a possible longer period could be enforced depending on the offense. In the
 event the member continues the negative behavior and is involved in a third incident, they are dishonorably
 discharged from the team. “Three strikes, you’re out.”
+*  Any community affiliate that posts inappropriate content as outlined in our rules/policies/SOPs, is subject to a 
+kick and/or ban if an administrator deems necessary.
 
 ## Clan Matches and/or Challenges:
 *  Any requests for a clan match, tournament or challenge are required to be forwarded to Nymesis or AJZ. In their
