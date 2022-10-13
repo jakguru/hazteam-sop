@@ -59,11 +59,11 @@ disrespect to any fellow members, Moderators or community members.
 leave and cool down. We call it the “24 Hour Rule”. Take 24 hours and once you cool down and come back, try to
 handle the situation with maturity and respect. If you are still having problems, please go to a Council Member for
 help.
-*  Do not ever call out or disrespect someone VIA the non-pass worded forums. If you have a complaint about how
-someone handled a situation, you may submit a thread in the PROTECTED ‘member section’ of the forums or Discord. There
-is no need to let the public know about our internal disagreements or problems. Basically, keep our internal issues
-IN HOUSE. Additionally, if it’s a simply misunderstanding, chances are it can be worked out with a PM or email
-without having to blow it out of proportion and have all the drama that consequently is involved.
+*  Do not ever call out or disrespect someone VIA the non-passworded forums or Discord. If you have a complaint about 
+how someone handled a situation, you may submit a thread in the PROTECTED ‘member section’ of the forums or Discord. 
+There is no need to let the public know about our internal disagreements or problems. Basically, keep our internal issues
+IN HOUSE. Additionally, if it’s a simply misunderstanding, chances are it can be worked out with a PM or email without 
+having to blow it out of proportion and have all the drama that consequently is involved.
 *  Harassment. Defined as taunting, name calling, degrading or humiliating individuals. This negative treatment will
 not be tolerated in HAZTEAM, period. A person exhibiting this type of behavior will be warned. If the behavior
 continues, they will suffer the possible consequences as defined by our established SOP and Rules. See below.
