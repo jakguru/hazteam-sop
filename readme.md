@@ -50,12 +50,12 @@ What's the worst that can happen? That it sets you up for success? Set the HAZTE
 *  If you are not a clan Member, you are not allowed to wear our tags.
 
 ## Attitude:
-*  Attitude is everything. Members & Moderators are held to a higher standard than other clans. We are to show
-respect, courtesy, honor, and skill at all times. We are not here to cheat, cuss, harass or degrade other people.
-*  There are going to be times when you get angry with another member, MOD, or fellow teammate. How you handle
-yourself in these situations will be a direct reflection of HT, and your future with HT. We will NOT tolerate any
-disrespect to any fellow members, Moderators or community members.
-*  If you are having a problem with a fellow member or MOD, please DO NOT get into an altercation with them. Simply
+*  Attitude is everything. Members are held to a higher standard than other clans. We are to show respect, courtesy, 
+honor, and skill at all times. We are not here to cheat, cuss, harass or degrade other people.
+*  There are going to be times when you get angry with another member.  How you handle yourself in these situations 
+will be a direct reflection of HT, and your future with HT. We will NOT tolerate any disrespect to any fellow members 
+or community affiliates.
+*  If you are having a problem with a fellow member or affiliate, please DO NOT get into an altercation with them. Simply
 leave and cool down. We call it the “24 Hour Rule”. Take 24 hours and once you cool down and come back, try to
 handle the situation with maturity and respect. If you are still having problems, please go to a Council Member for
 help.
