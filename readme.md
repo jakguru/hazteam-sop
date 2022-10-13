@@ -13,12 +13,10 @@ are what make up the reputation of our team in the gaming world.
 
 ## Chain of Command:
 *  We have a ruling body designated as the Council that consists of our clan Leaders and veteran members to ensure
-the administration, organization and everyday operations run smoothly. If you have an inquiry, issue, or even an
-accolade, please contact a Council Member.
-*  In addition to the Council members, we also have System Administrators. These are individuals that volunteer
-their time to assist in the maintenance and upkeep of our game server(s), website and Discord. If a clan Member
-encounters a technical problem with game server, the website or Discord, they should be directed to a System
-Administrator. These individuals can be identified on the Crew Roster.
+the administration, organization and everyday operations run smoothly. 
+*  The Fleet Master Chief Petty Officer (FMCPO) is a Senior Enlisted position appointed by the Council.  This position serves as the top echelon of the enlisted ranks and a direct Liason with the Council.
+*  In the event you have an inquiry, issue, or even an accolade, please contact a Council Member.
+*  In addition to the Council members, we also have Security personnel.  These are individuals that volunteer their time to assist in the administration of websites, game servers, and/or Discord. If a clan Member encounters a technical problem with any of the above mentioned services, they can contact Security.  These individuals can be identified on the Discord member list.
 
 ## Nymesis’ Open Door Policy:
 *  Those of you that are former military know what this is. For civilians, an explanation: A Commander's Open Door
