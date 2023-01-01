@@ -1,6 +1,6 @@
 # HAZTEAM Standard Operating Procedures
 
-![HT_hd_coa_web_2022_280kb](https://user-images.githubusercontent.com/102477047/183432481-626fe227-aaa2-400e-8651-e47972b865b4.png)
+![HT_hd_coa_web_2023_280kb](https://s3.amazonaws.com/guildtag/file/5662/29597-16b8a0.png)
 ## Introduction:
 *  This SOP is meant to educate Members on the procedures and policies that are in place for HAZTEAM. All Members
 are required to know this SOP. Failure to know them and as a result violate them, is grounds for expulsion from
