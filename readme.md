@@ -154,3 +154,4 @@ in Command responsibilites.  If a member chooses the WO route after two years, t
 consisting of WO-1 through WO-5.
 *  3.  ``Master Chief Petty Officer``:  A member may choose to stay in the senior enlisted ranks at MCPO, however, remaining at this rank
 will not allow for future promotions.
+*  4.  ``Fleet Master Chief Petty Officer``:  In 2023, the Fleet MCPO Council appointment was created for the enlisted ranks liason to the Council.
