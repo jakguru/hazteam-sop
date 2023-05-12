@@ -2,8 +2,8 @@
 
 ![HT_hd_coa_web_2023_280kb](https://s3.amazonaws.com/guildtag/file/5662/29597-16b8a0.png)
 ## Introduction:
-*  This handbook is meant to educate Members on the procedures and policies that are in place for HAZTEAM. All Members
-are required to know it's contents. Failure to know them and as a result, violate them, is grounds for expulsion from
+*  This handbook is meant to educate Members on the procedures and policies that are in place for HAZTEAM and be an overall guide for members about the way of HT. All Members
+are required to know it's contents. Failure to know them, and as a result, violate them, is grounds for expulsion from
 the team.
 *  In HT we hold our members to a higher standard. That is to understand and uphold a specific etiquette that must
 be followed as a member of the team. We don't believe our rules are strict or are hard to follow, but nevertheless
@@ -46,7 +46,8 @@ What's the worst that can happen? That it sets you up for success? Set the HAZTE
 
 ## Tags:
 *  The official HT tags are: `=HT=`
-*  If you are wearing your tags as a guest in any server you are expected to act in accordance with HAZTEAM SOP.
+*  If you are wearing your tags as a guest in any server you are expected to act in accordance with HAZTEAM guidelines. (G.O. #4)
+*  You may wear the tags anywhere you see fit, but we kindly ask that you display them proudly in other discord and game communties.
 *  If you are not a clan Member, you are not allowed to wear our tags.
 
 ## Attitude:
@@ -105,9 +106,9 @@ Poll Options:
 ```
 * All “No” votes must be explained so If a member votes NO, an explanation is required in the thread. If not,
 then the “extra” NO votes that do not match the number of NO posts will then be thrown out of the vote.
-* Only Nymesis or AJZ can approve a vote and finalize it. In the absence of the Leaders for 10 days after the
+* Only Nymesis or Worthy0ne can approve a vote and finalize it. In the absence of the Leaders for 10 days after the
 1/3 team vote, a Council Member may approve and finalize the vote.
-* Only Nymesis or AJZ can direct a Member to post an Invite Thread. This invite thread should be reserved for
+* Only Nymesis or Worthy0ne can direct a Member to post an Invite Thread. This invite thread should be reserved for
 the new member’s Mentor. In the absence of the Leaders for 10 days after the 1/3 team vote, a Council
 Member may direct a Member to post an invite announcement.
 
@@ -140,7 +141,7 @@ discharged from the team. “Three strikes, you’re out.”
 kick and/or ban as an administrator deems necessary.
 
 ## Clan Matches and/or Challenges:
-*  Any requests for a clan match, tournament or challenge are required to be forwarded to Nymesis or AJZ. In their
+*  Any requests for a clan match, tournament or challenge are required to be forwarded to Nymesis or Worthy0ne. In their
 absence, the request should be redirected to a Council member. 
 
 ## Advancement In Rank - Beyond The Enlisted Ranks:
