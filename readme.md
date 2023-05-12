@@ -1,9 +1,9 @@
-# HAZTEAM Standard Operating Procedures
+# HAZTEAM Member Handbook
 
 ![HT_hd_coa_web_2023_280kb](https://s3.amazonaws.com/guildtag/file/5662/29597-16b8a0.png)
 ## Introduction:
-*  This SOP is meant to educate Members on the procedures and policies that are in place for HAZTEAM. All Members
-are required to know this SOP. Failure to know them and as a result violate them, is grounds for expulsion from
+*  This handbook is meant to educate Members on the procedures and policies that are in place for HAZTEAM. All Members
+are required to know it's contents. Failure to know them and as a result, violate them, is grounds for expulsion from
 the team.
 *  In HT we hold our members to a higher standard. That is to understand and uphold a specific etiquette that must
 be followed as a member of the team. We don't believe our rules are strict or are hard to follow, but nevertheless
