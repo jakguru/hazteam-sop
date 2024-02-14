@@ -1,6 +1,6 @@
 # HAZTEAM Member Handbook
 
-![HT_hd_coa_web_2023_280kb]([(https://s3.amazonaws.com/guildtag/file/5662/68071-14c0bd.png)])
+![HT_hd_coa_web_2023_280kb](https://s3.amazonaws.com/guildtag/file/5662/68071-14c0bd.png)
 ## Introduction:
 *  This handbook is meant to educate Members on the procedures and policies that are in place for HAZTEAM and be an overall guide for members about the way of HT. All Members
 are required to know it's contents. Failure to know them, and as a result, violate them, is grounds for expulsion from
